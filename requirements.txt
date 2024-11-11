@@ -1,0 +1,4 @@
+Numpy
+pandas
+Sklearn
+Streamlit
